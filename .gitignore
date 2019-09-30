@@ -17,3 +17,8 @@ hs_err_pid*
 *.iws
 out/
 .idea_modules/
+
+##########################
+## Mac File
+##########################
+.DS_Store

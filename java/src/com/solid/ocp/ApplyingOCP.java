@@ -5,7 +5,7 @@ import com.solid.ocp.structure.ProductType;
 
 public class ApplyingOCP {
 
-    public static void Run(){
+    public static void run(){
         // With OCP
         System.out.println("Applying OCP");
         Product product1 = Product.of("Sneakers", 120d, ProductType.SPORT);

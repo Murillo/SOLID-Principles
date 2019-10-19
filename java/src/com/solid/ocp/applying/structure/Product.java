@@ -1,4 +1,4 @@
-package com.solid.ocp.structure;
+package com.solid.ocp.applying.structure;
 
 public final class Product {
 

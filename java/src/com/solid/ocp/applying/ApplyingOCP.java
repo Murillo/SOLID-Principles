@@ -1,7 +1,7 @@
-package com.solid.ocp;
+package com.solid.ocp.applying;
 
-import com.solid.ocp.structure.Product;
-import com.solid.ocp.structure.ProductType;
+import com.solid.ocp.applying.structure.Product;
+import com.solid.ocp.applying.structure.ProductType;
 
 public class ApplyingOCP {
 

@@ -1,4 +1,4 @@
-package com.solid.srp.structure;
+package com.solid.srp.notapplying.structure;
 
 import java.time.LocalDateTime;
 
@@ -30,4 +30,3 @@ public final class Shipment {
         return new Shipment(request, quantity, weight);
     }
 }
-

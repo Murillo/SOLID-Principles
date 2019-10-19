@@ -2,7 +2,7 @@ package com.solid;
 
 import com.solid.lsp.ApplyingLSP;
 import com.solid.ocp.applying.ApplyingOCP;
-import com.solid.srp.ApplyingSRP;
+import com.solid.srp.applying.ApplyingSRP;
 
 public class Main {
 

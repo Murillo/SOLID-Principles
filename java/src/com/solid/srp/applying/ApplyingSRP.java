@@ -1,7 +1,7 @@
-package com.solid.srp;
+package com.solid.srp.applying;
 
-import com.solid.srp.structure.Shipment;
-import com.solid.srp.structure.ShipmentValidationWeight;
+import com.solid.srp.applying.structure.Shipment;
+import com.solid.srp.applying.structure.ShipmentValidationWeight;
 
 import java.time.LocalDateTime;
 

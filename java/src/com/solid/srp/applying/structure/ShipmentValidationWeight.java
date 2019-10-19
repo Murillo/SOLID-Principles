@@ -1,4 +1,4 @@
-package com.solid.srp.structure;
+package com.solid.srp.applying.structure;
 
 public class ShipmentValidationWeight {
 
